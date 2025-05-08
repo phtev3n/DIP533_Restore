@@ -1,0 +1,17 @@
+# Python 3.11.3 or greater
+numpy
+pillow
+opencv-python
+scikit-image
+lpips
+torch
+matplotlib
+diffusers 
+transformers 
+accelerate
+#mpi4py #Used for parallel processing with GPUs
+blobfile 
+torchvision 
+tqdm  
+requests
+# guided-diffusion is installed as a python module library since it is locally in the repo
